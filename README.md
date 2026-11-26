@@ -4,7 +4,7 @@ Final group project for a deep learning in genomics course, Brown University (20
 
 GTVelo predicts what a cell will become during development. It builds a graph of single-cell RNA-seq data, weights the edges using RNA velocity, and trains a Graph Transformer to classify the cell types that appear at later developmental timepoints.
 
-Materials: [`paper`](./GTVelo__DL_in_Genomics_Research_Paper.pdf) and [`slides`](./'GTVelo (1).pdf')
+Materials: [`paper`](./GTVelo__DL_in_Genomics_Research_Paper_1.pdf) and [`slides`](./GTVelo%20%281%29.pdf)
 
 ## Overview
 
@@ -38,8 +38,8 @@ Limitations include no comparison against state-of-the-art fate tools, mouse dat
 
 ## Repository Contents
 
-- [`GTVelo__DL_in_Genomics_Research_Paper.pdf`](./GTVelo__DL_in_Genomics_Research_Paper.pdf): research paper
-- [`GTVelo(1).pdf`]('./GTVelo (1).pdf'): presentation slides
+- [`GTVelo__DL_in_Genomics_Research_Paper_1.pdf`](./GTVelo__DL_in_Genomics_Research_Paper_1.pdf): research paper
+- [`GTVelo (1).pdf`](./GTVelo%20%281%29.pdf): presentation slides
 
 The code is not included in this repository.
 
